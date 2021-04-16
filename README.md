@@ -1,2 +1,2 @@
 # Crud-1
-Crud 1 ne lende laboratorike projekti Vaksinimi
+Crud 2 ne lende laboratorike projekti Restaurant
